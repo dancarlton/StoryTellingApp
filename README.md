@@ -3,17 +3,16 @@
 A web application built with Node.js, Express, MongoDB, and Google OAuth that enables users to create and share their own stories publicly or privately.
 
 ## Table of Contents
-- [StoryTellingApp](#storytellingapp)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Features](#features-1)
-  - [Technologies Used](#technologies-used)
-  - [Contact](#contact)
+1. [StoryTellingApp](#storytellingapp)
+2. [About](#about)
+3. [Features](#features)
+4. [Getting Started](#getting-started)
+   1. [Prerequisites](#prerequisites)
+   2. [Installation](#installation)
+6. [Usage](#usage)
+7. [Features](#features-1)
+8. [Technologies Used](#technologies-used)
+9. [Contact](#contact)
 
 
 ## About
@@ -63,7 +62,7 @@ npm start
 ```
 or
 ```
-    nodemon app.js
+nodemon app.js
 ```
 
 ## Usage
